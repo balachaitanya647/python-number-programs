@@ -1,4 +1,4 @@
-n=int(input())
+n=int(input('Enter a Number:'))
 dummy=n
 l=len(str(n))
 s=0
@@ -11,3 +11,4 @@ if s==n:
 else:
     print('Given Number is Not Armstrong Number')
     
+
